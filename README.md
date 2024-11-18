@@ -9,7 +9,7 @@
 ---
 
 - :credit_card: Hi, I’m **@earthdeveloperjuanse**
-- :school: I'm currently a 3rd-year student at **FPT University - Ho Chi Minh City Campus**
+- :school: I'm Cadastral and Geodesy Engineer, student of the Master in geospatial technologies.
 - :sweat_smile: I’m interested in **earth sciences**
 - :monocle_face: I’m currently learning **code development applied to the territory**
 - :sunglasses: I’m looking to collaborate on projects involving **earth sciences**
