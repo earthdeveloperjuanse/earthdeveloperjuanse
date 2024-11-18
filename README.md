@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/animation/2022/11/13/07/16/07-16-41-513_512.gif" alt="Earth Juanse GIF" width="800">
+  <img src="https://cdn.pixabay.com/animation/2022/11/13/07/16/07-16-41-513_512.gif" alt="Earth Juanse GIF" width="400">
 </div>
 
 ---
