@@ -9,7 +9,7 @@
 
 <div align="center">
    :credit_card: Hi, I’m <b>@earthdeveloperjuanse</b>,
-   :school: I'm Cadastral and Geodesy Engineer, student of the Master in geospatial technologies,
+   :school: I'm Cadastral and Geodesy Engineer, Master in geospatial technologies,
    :sweat_smile: I’m interested in <b>earth sciences</b>,
    :monocle_face: I’m currently learning <b>code development applied to the territory</b>,
    :sunglasses: I’m looking to collaborate on projects involving <b>earth sciences</b>.
