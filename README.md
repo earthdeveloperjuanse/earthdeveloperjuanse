@@ -33,9 +33,8 @@ I specialize in transforming spatial data into insights for **territorial, urban
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### GIS & Geospatial
-![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2E7DBA?style=for-the-badge)
-![ArcGIS Enterprise](https://img.shields.io/badge/ArcGIS%20Enterprise-005E95?style=for-the-badge)
-![ArcPy](https://img.shields.io/badge/ArcPy-005E95?style=for-the-badge)
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2E7DBA?style=for-the-badge&logo=esri&logoColor=white)
+![ArcGIS Enterprise](https://img.shields.io/badge/ArcGIS%20Enterprise-005E95?style=for-the-badge&logo=esri&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-3.44-3CB371?style=for-the-badge&logo=qgis&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-2E8B57?style=for-the-badge)
